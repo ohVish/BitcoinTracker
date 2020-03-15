@@ -28,6 +28,6 @@ if len(sys.argv)<2:
 else:
 	currency = sys.argv[1]
 old = 0 
-menu_options = (("Actualizar", None, update),)
+menu_options = (("Update value", None, update),)
 systray = SysTrayIcon("icon.ico", "Bitcoin Tracker", menu_options)
 systray.start()
