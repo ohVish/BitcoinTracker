@@ -25,4 +25,4 @@ You can execute it in background with the following batch command:
 START /B python3 BTCTracking.py
 ```
 
-Once you have executed the script, it will appear a new Windows system tray with the Bitcoin icon. You can double click on it to update the actual exchange value of the Bitcoin.
+Once you have executed the script, it will appear a new Windows system tray with the Bitcoin icon. You can double click on it to update the actual exchange value of the Bitcoin and it will appear on the header text of the system tray.
